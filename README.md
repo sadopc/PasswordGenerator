@@ -18,4 +18,5 @@ A modern and user-friendly password generator application built with Python and 
 ## Requirements
 
 customtkinter>=5.2.0
+
 pyperclip>=1.8.2
